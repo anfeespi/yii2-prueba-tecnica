@@ -38,8 +38,8 @@ composer install
 return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=yii2_prueba',
-    'username' => 'tu_usuario', // Ej: root
-    'password' => 'tu_password',
+    'username' => 'root',
+    'password' => '',
     'charset' => 'utf8',
 ];
 ```
