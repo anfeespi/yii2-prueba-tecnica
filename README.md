@@ -15,7 +15,7 @@ Para ejecutar este proyecto localmente se necesita:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <URL_DE_TU_REPOSITORIO>
+git clone
 cd prueba-tecnica-yii2
 ```
   
@@ -83,9 +83,9 @@ CRUD Completo: Creación, lectura, actualización y borrado de usuarios, proyect
 
   * Uso de ExternalPostService para separar la lógica del controlador.
 
-  *Validación de cambios mediante Hash MD5 del payload.
+  * Validación de cambios mediante Hash MD5 del payload.
 
-  *Visualización formateada del JSON en la vista detalle.
+  * Visualización formateada del JSON en la vista detalle.
 
 Uso: Ir al menú External Posts y hacer clic en el botón amarillo "🔄 Sincronizar con API".
 
